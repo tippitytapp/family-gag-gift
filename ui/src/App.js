@@ -1,5 +1,5 @@
 import './App.css';
-import LoginContainer from "./components/loginScreen/LoginContainer"
+import LoginContainer from './components/loginScreen/LoginContainer';
 function App() {
   return (
     <div className="App">
